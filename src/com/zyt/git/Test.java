@@ -10,6 +10,7 @@ public class Test {
         System.out.println("Hi Git 2");
         System.out.println("Hi Git master");
         System.out.println("Hi Git aa");
+        System.out.println("Hello Github");
         System.out.println("Hi Github master");
     }
 }
